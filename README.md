@@ -2,7 +2,13 @@
 
 ## Universidad de Las Américas (UDLA) - Concepción
 
-La **Universidad de Las Américas (UDLA)** es una institución privada sin fines de lucro, fundada en 1988 y con autonomía desde 1997. La UDLA Concepción es uno de los campus de la universidad, ubicado en la región del Biobío, y se destaca por su compromiso con la educación de calidad, la investigación y la vinculación con el medio.
+La **Universidad de Las Américas (UDLA)**, a través de su campus en Concepción, se destaca por su compromiso con la educación de calidad, la investigación y la vinculación con el medio. El **Observatorio de Datos** de la UDLA Concepción refleja estos valores al proporcionar insights sobre las tendencias sociales de la región, presentar estudios mediante visualizaciones y destacar los avances en investigación científica y proyectos de vinculación con la comunidad. El observatorio tiene como objetivos principales:
+
+- **Proveer insight sobre las tendencias sociales de la región de Biobío**: Analizar y proporcionar información detallada sobre las dinámicas sociales en la región para apoyar la toma de decisiones informadas.
+- **Presentar estudios realizados por la UDLA Campus el Boldal mediante visualizaciones**: Utilizar herramientas de visualización de datos para presentar de manera clara y accesible los estudios realizados por la universidad.
+- **Mostrar los avances de investigación científica y de vinculación con el medio de la universidad**: Destacar los avances en investigación y los proyectos de vinculación con el medio, promoviendo el conocimiento y la colaboración entre la universidad y la comunidad.
+
+
 
 ### Objetivo del Observatorio
 
