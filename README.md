@@ -54,8 +54,6 @@ El equipo del observatorio está compuesto por los siguientes miembros:
   - **Correo electrónico**: user@udla.cl
   - **Teléfono**: +56 2 4321 8765
 
-Para más información, visita el sitio web de la Universidad de Las Américas.
-
 ---
 
 
