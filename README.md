@@ -38,7 +38,7 @@ El observatorio se enfoca en las siguientes áreas de trabajo:
 
 El equipo del observatorio está compuesto por los siguientes miembros:
 
-- **Dr. ** - Director del Observatorio
+- **Dr.** - Director del Observatorio
   - **Correo electrónico**: user@udla.cl
   - **Teléfono**: +56 2 1234 5678
 
