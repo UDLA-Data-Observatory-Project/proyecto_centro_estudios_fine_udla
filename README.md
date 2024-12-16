@@ -34,6 +34,23 @@ El observatorio se enfoca en las siguientes áreas de trabajo:
    - Documentación y difusión de los avances en investigación científica realizados por la universidad.
    - Promoción de proyectos de vinculación con el medio que beneficien a la comunidad local.
 
+### Indicadores UDLA-Boldal por años
+
+1. **Indicadores de Investigación**:
+   - **Publicaciones Científicas**: Número de artículos publicados en revistas indexadas, conferencias y otros medios académicos.
+   - **Proyectos de Investigación**: Cantidad de proyectos de investigación iniciados, en curso y finalizados, incluyendo colaboraciones con otras instituciones.
+   - **Fondos de Investigación**: Monto total de fondos obtenidos para la investigación, desglosado por fuentes internas y externas.
+   - **Patentes y Propiedad Intelectual**: Número de patentes solicitadas y otorgadas, así como otros logros en propiedad intelectual.
+   - **Participación en Conferencias**: Número de presentaciones y ponencias realizadas por los investigadores en conferencias nacionales e internacionales.
+
+2. **UDLA en la Sociedad**:
+   - **Proyectos de Vinculación con el Medio**: Iniciativas y proyectos desarrollados en colaboración con la comunidad local, organizaciones no gubernamentales y entidades gubernamentales.
+   - **Impacto Social**: Evaluación del impacto de los proyectos de vinculación en la comunidad, incluyendo mejoras en calidad de vida, educación y desarrollo económico.
+   - **Eventos y Talleres**: Número de eventos, talleres y seminarios organizados por la universidad para la comunidad, incluyendo temas de interés social y científico.
+   - **Colaboraciones y Alianzas**: Descripción de las alianzas estratégicas con otras instituciones académicas, empresas y organizaciones para el desarrollo de proyectos conjuntos.
+   - **Difusión y Comunicación**: Actividades de difusión de los resultados de investigación y proyectos de vinculación, incluyendo publicaciones en medios de comunicación y redes sociales.
+
+
 ### Encargados del Proyecto
 
 El equipo del observatorio está compuesto por los siguientes miembros:
