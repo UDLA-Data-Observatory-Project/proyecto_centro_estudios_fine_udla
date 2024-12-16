@@ -49,7 +49,7 @@ El equipo del observatorio está compuesto por los siguientes miembros:
 - **Dr. Jaime Lincovil** - Cientifico de datos del Observatorio
   - **Correo electrónico**: jlincovil@udla.cl
   - **Teléfono**: +56 2 5678 1234
-  - (**LinkedIn**:)[https://cl.linkedin.com/in/jaime-enrique-lincovil-curivil-973a9b186]
+  - [**LinkedIn**:](https://cl.linkedin.com/in/jaime-enrique-lincovil-curivil-973a9b186)
 
 - **Lic. Rodrigo de Lima Ferreira** - Soporte de desarrollo Web y Test.
   - **Correo electrónico**: user@udla.cl
