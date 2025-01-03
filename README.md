@@ -1,20 +1,10 @@
-# Observatorio de Datos - UDLA Concepción
+# Observatorio de Industria y Negocios Sostenibles (INSOS) - UDLA
 
-## Universidad de Las Américas (UDLA) - Concepción
+## Universidad de Las Américas (UDLA)
 
-La **Universidad de Las Américas (UDLA)**, a través de su campus en Concepción, se destaca por su compromiso con la educación de calidad, la investigación y la vinculación con el medio. El **Observatorio de Datos** de la UDLA Concepción refleja estos valores al proporcionar insights sobre las tendencias sociales de la región, presentar estudios mediante visualizaciones y destacar los avances en investigación científica y proyectos de vinculación con la comunidad. El observatorio tiene como objetivos principales:
+La **Universidad de Las Américas (UDLA)**, a través de la **Facultad de Ingeniería y Negocios**, se destaca por su compromiso con la educación de calidad, la investigación y la vinculación con el medio. El **Observatorio de Industria y Negocios Sostenibles** de la UDLA refleja estos valores al proporcionar luces sobre las tendencias sociales del país y las regiones, presentar estudios mediante visualizaciones y destacar los avances en investigación científica y proyectos de vinculación con la comunidad. El INSOS tiene como objetivos principales:
 
-- **Proveer insight sobre las tendencias sociales de la región de Biobío**: Analizar y proporcionar información detallada sobre las dinámicas sociales en la región para apoyar la toma de decisiones informadas.
-- **Presentar estudios realizados por la UDLA Campus el Boldal mediante visualizaciones**: Utilizar herramientas de visualización de datos para presentar de manera clara y accesible los estudios realizados por la universidad.
-- **Mostrar los avances de investigación científica y de vinculación con el medio de la universidad**: Destacar los avances en investigación y los proyectos de vinculación con el medio, promoviendo el conocimiento y la colaboración entre la universidad y la comunidad.
-
-
-
-### Objetivo del Observatorio
-
-El **Observatorio de Datos** de la UDLA Concepción tiene como objetivo principal:
-
-- **Proveer insight sobre las tendencias sociales de la región de Biobío**: Analizar y proporcionar información detallada sobre las dinámicas sociales en la región para apoyar la toma de decisiones informadas.
+- **Proveer *insight* sobre las tendencias sociales de la región de Biobío**: Analizar y proporcionar información detallada sobre las dinámicas sociales en la región para apoyar la toma de decisiones informadas.
 - **Presentar estudios realizados por la UDLA Campus el Boldal mediante visualizaciones**: Utilizar herramientas de visualización de datos para presentar de manera clara y accesible los estudios realizados por la universidad.
 - **Mostrar los avances de investigación científica y de vinculación con el medio de la universidad**: Destacar los avances en investigación y los proyectos de vinculación con el medio, promoviendo el conocimiento y la colaboración entre la universidad y la comunidad.
 
@@ -26,7 +16,7 @@ El observatorio se enfoca en las siguientes áreas de trabajo:
    - Recopilación y análisis de datos sobre las dinámicas sociales en la región de Biobío.
    - Identificación de patrones y tendencias que impactan a la comunidad.
 
-2. **Visualización de Datos**:
+2. **Visualización de Datos economicos, sociales y ambientales**:
    - Creación de gráficos interactivos y visualizaciones atractivas para facilitar la comprensión de los estudios realizados.
    - Uso de herramientas como Power BI, Tableau y Grafana para la presentación de datos en tiempo real.
 
@@ -34,7 +24,7 @@ El observatorio se enfoca en las siguientes áreas de trabajo:
    - Documentación y difusión de los avances en investigación científica realizados por la universidad.
    - Promoción de proyectos de vinculación con el medio que beneficien a la comunidad local.
 
-### Indicadores UDLA-Boldal por años
+### Indicadores UDLA por años
 
 1. **Indicadores de Investigación**:
    - **Publicaciones Científicas**: Número de artículos publicados en revistas indexadas, conferencias y otros medios académicos.
