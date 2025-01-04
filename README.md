@@ -41,26 +41,17 @@ El observatorio se enfoca en las siguientes áreas de trabajo:
    - **Difusión y Comunicación**: Actividades de difusión de los resultados de investigación y proyectos de vinculación, incluyendo publicaciones en medios de comunicación y redes sociales.
 
 
-### Encargados del Proyecto
+### Encargados del Proyecto del Sitio Web
 
 El equipo del observatorio está compuesto por los siguientes miembros:
 
-- **Dr.** - Director del Observatorio
-  - **Correo electrónico**: user@udla.cl
-  - **Teléfono**: +56 2 1234 5678
-
-- **Dra. María González** - Coordinadora de Investigación
-  - **Correo electrónico**: user@udla.cl
-  - **Teléfono**: +56 2 8765 4321
-
 - **Dr. Jaime Lincovil** - Cientifico de datos del Observatorio
   - **Correo electrónico**: jlincovil@udla.cl
-  - **Teléfono**: +56 2 5678 1234
   - [**LinkedIn**:](https://cl.linkedin.com/in/jaime-enrique-lincovil-curivil-973a9b186)
 
-- **Lic. Rodrigo de Lima Ferreira** - Soporte de desarrollo Web y Test.
-  - **Correo electrónico**: user@udla.cl
-  - **Teléfono**: +56 2 4321 8765
+- **Esp. Rodrigo de Lima Ferreira** - Soporte de desarrollo web y pruebas de softwares.
+  - **Correo electrónico**: rodrigollimaferreira@gmail.com
+  - [**LinkedIn**:](https://www.linkedin.com/in/rllimaferreira/)
 
 ---
 
